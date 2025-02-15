@@ -4,7 +4,7 @@ import csv
 from sqlalchemy import create_engine
 
 # ✅ Step 1: Fetch Data from PostgreSQL Database
-engine = create_engine('postgresql://settl_staging_user:SettlThe#098@settl-combined-system.cwgkzqbex6z4.ap-south-1.rds.amazonaws.com:5432/staging_settl')
+engine = create_engine('')
 connection = engine.connect()
 
 query = """
