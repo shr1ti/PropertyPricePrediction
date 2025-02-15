@@ -1,0 +1,5 @@
+This project aims to predict optimal property prices by leveraging data extraction, web scraping, and machine learning techniques. PostgreSQL is used to store and extract structured property data, while Selenium automates web scraping to gather real-time market prices from real estate websites.
+
+Once the data is collected, it undergoes preprocessing and feature engineering to ensure consistency and accuracy. The core of this project lies in the implementation of K-Means Clustering, which groups similar properties based on attributes like location, size, and amenities. By analyzing these clusters, the model predicts an ideal selling price for properties, helping buyers and sellers make informed decisions. 
+
+The project integrates key technologies, including Python, Pandas, NumPy, Scikit-Learn, and Matplotlib, to streamline data handling, model training, and visualization. Future enhancements could involve improving cluster accuracy with advanced algorithms, incorporating additional market factors, and deploying the model as a web-based tool for real-time property price recommendations.
