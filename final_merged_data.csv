@@ -1,0 +1,53 @@
+property_name,property_id,total_opex,city,locality,avg_rent,occupancy_ratio,months_of_stay,CP/ Room,GrossMargin,Furnished Price,Semi-Furnished Price,Unfurnished Price
+Settl. Belfort,74,250000,Bangalore,Sarjapur Road,19119.0,42.0,2.2,15000.0,21.54401380825357,,,
+Settl. Athea,68,300000,Gurgaon,Sector 49,23727.0,90.0,1.35,19667.0,17.11130779280988,,,
+Settl. Oslo,34,80000,Gurgaon,Sector 51,16306.0,93.75,1.86,12650.0,22.421194652275236,,,
+Settl. Bologna,51,205000,Bangalore,Brookefield,17480.0,98.78,1.78,13659.0,21.859267734553775,15833.0,15888.0,17166.0
+Chennai Listing,96,0,Chennai,Valsaravakkam,26800.0,0.0,1.0,,,,,
+Settl. Samoa,52,165000,Gurgaon,Sector 51,20111.0,93.94,1.05,13636.0,32.19631047685346,,,
+Settl. Delvin,67,155000,Bangalore,Panathur,23291.0,91.94,1.91,22935.0,1.5284873985659697,15833.0,15888.0,17166.0
+Settl. Verona,63,345000,Gurgaon,Sector 48,16955.0,85.51,1.4,14652.0,13.583013860218223,,,
+Settl. Colmar,6,150000,Bangalore,Doddanakundi,25701.0,86.67,1.92,,,,,
+Settl.Pisa Block B,86,230000,Bangalore,Whitefield,11031.0,68.48,1.11,18000.0,-63.17650258362796,23166.0,16666.0,10000.0
+Settl. Santorini,39,100000,Bangalore,Indiranagar,30894.0,100.0,2.74,15000.0,51.44688288988153,23166.0,16666.0,10000.0
+Hyphen Club Lush,101,0,Bangalore,ITPL,14326.0,5.56,1.5,,,,,
+Settl. Prague,36,150000,Gurgaon,Sector 52,17127.0,93.33,1.65,11235.0,34.40182168505868,,,
+Settl. Clare,31,180000,Hyderabad,Madhapur,13577.0,100.0,1.84,11550.0,14.929660455181557,24433.0,19444.0,16366.0
+Hyphen Club Derive,102,0,Bangalore,Indiranagar,9415.0,6.25,1.57,,,23166.0,16666.0,10000.0
+Settl. Alem,60,110000,Gurgaon,Sector 43,27332.0,100.0,1.08,,,,,
+Settl. Tellaro,14,120000,Bangalore,Koramangala,23367.0,100.0,2.24,18375.0,21.363461291565027,23166.0,16666.0,10000.0
+Settl. Samara,22,85000,Bangalore,Indiranagar,15186.0,100.0,2.0,14453.0,4.826814170946925,23166.0,16666.0,10000.0
+Settl. Lumia,59,190000,Gurgaon,Sector 39,22067.0,94.74,2.74,23026.0,-4.345855802782435,,,
+Settl. Springfield,13,80000,Bangalore,Koramangala,26836.0,100.0,1.69,20625.0,23.144283797883443,23166.0,16666.0,10000.0
+Settl. Amalfi,16,180000,Hyderabad,Madhapur,14464.0,94.59,1.63,10000.0,30.86283185840708,24433.0,19444.0,16366.0
+Settl Bron,62,300000,Hyderabad,Gachibowli,16886.0,96.67,1.62,13333.0,21.04109913537842,26000.0,18770.0,28333.0
+Settl. Lagos,98,75000,Chennai,Anna Nagar,19973.0,3.33,1.33,,,,,
+Settl. Revo,73,100000,Gurgaon,Sector 38,0.0,5.0,0.67,,,,,
+Settl. Sneha_One,103,97000,Bangalore,"block 2,Kathiriguppe",2095.0,13.46,1.0,,,,,
+Settl. Reine,11,95000,Bangalore,HSR Layout,29138.0,100.0,2.42,19474.0,33.166312032397556,,,
+Settl. Minori,44,85000,Bangalore,Marathahalli,29069.0,100.0,2.56,17500.0,39.798410678041904,,,
+Settl. Hyphen Club Ombre,99,0,Bangalore,HSR Layout,10500.0,9.62,2.33,,,,,
+Settl. Contes,43,100000,Bangalore,Koramangala,28550.0,100.0,2.04,16000.0,43.957968476357266,23166.0,16666.0,10000.0
+Settl. Azore,32,160000,Hyderabad,Gachibowli,16206.0,98.44,1.68,11156.0,31.161298284585953,26000.0,18770.0,28333.0
+Settl. Arlon,53,215000,Gurgaon,Sector 47,19574.0,91.86,1.57,15750.0,19.536119341984264,,,
+Hyphen Sycamore Tree,100,0,Bangalore,HSR Layout,9239.0,28.12,4.3,,,,,
+Settl. Gorbio,38,110000,Hyderabad,Jubilee Hills,16527.0,95.45,2.14,13000.0,21.340836207418164,17500.0,21880.0,16500.0
+Settl. Lugano,15,100000,Bangalore,HSR Layout,30971.0,100.0,2.56,20900.0,32.517516386296855,,,
+Settl. Dinant,12,170000,Bangalore,HSR Layout,16070.0,100.0,2.03,13650.0,15.059116365899191,,,
+Settl. Monsanto,48,175000,Bangalore,Haralur,25790.0,97.14,1.83,10000.0,61.225281116711905,15833.0,15888.0,17166.0
+Settl. Deia,57,165000,Gurgaon,Sector 39,28732.0,96.97,1.41,22727.0,20.90004176527913,,,
+Settl. Siena Block A,61,245000,Bangalore,Manyata Tech Park,10297.0,75.96,1.39,,,23166.0,16666.0,10000.0
+Settl. Cervo,77,175000,Bangalore,HSR Extension,10499.0,22.86,1.67,,,,,
+Hyderabad Listing Property,94,0,Hyderabad,Jubliee Hills,28000.0,0.0,1.0,,,,,
+Settl. Riga,30,90000,Bangalore,HSR Layout,31680.0,100.0,2.64,18492.0,41.628787878787875,,,
+Settl. Norcia,21,75000,Bangalore,Koramangala,29703.0,100.0,2.19,24000.0,19.2000807999192,23166.0,16666.0,10000.0
+Settl. Altea,49,85000,Bangalore,Indiranagar,26320.0,100.0,2.39,19641.0,25.376139817629177,23166.0,16666.0,10000.0
+Settl. Sofia,3,160000,Bangalore,HSR Layout,17030.0,98.44,1.63,16480.0,3.2295948326482677,,,
+Settl. Bosa,20,195000,Bangalore,Sarjapur Road,25735.0,97.44,2.2,14103.0,45.199145133087235,,,
+Settl. Santana,37,100000,Bangalore,Indiranagar,25086.0,100.0,3.11,15000.0,40.2056924180818,23166.0,16666.0,10000.0
+Settl. Vienna,33,80000,Gurgaon,Sector 31,16817.0,100.0,1.95,13781.0,18.05316049235892,,,
+Settl. Pisa Block A,76,220000,Bangalore,Whitefield,15976.0,77.27,1.55,18000.0,-12.669003505257887,23166.0,16666.0,10000.0
+Royal life,104,10000,Bangalore,Bangalore area,15353.0,9.68,1.29,,,,,
+Settl. Hallstatt,5,130000,Bangalore,ITPL,16930.0,84.62,1.98,13846.0,18.216184288245717,,,
+Settl. Alberti,55,175000,Bangalore,Kasavanahalli,18117.0,81.43,1.59,13500.0,25.48435171385991,15833.0,15888.0,17166.0
+Settl. Tavira,58,200000,Gurgaon,Sector 52,20207.0,98.75,9.07,,,,,
