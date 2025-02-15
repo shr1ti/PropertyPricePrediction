@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Create database connection
-engine = create_engine('postgresql://settl_staging_user:SettlThe#098@settl-combined-system.cwgkzqbex6z4.ap-south-1.rds.amazonaws.com:5432/staging_settl')
+engine = create_engine('')
 connection = engine.connect()
 
 # SQL query to fetch data
